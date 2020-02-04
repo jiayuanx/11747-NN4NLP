@@ -21,8 +21,8 @@ GREEN='\033[0;32m'
 GREEN='\033[0;32m'
 
 # For Mac OS users
-# zip -d $1 __MACOSX/\*
-# zip -d $1 \*/.DS_Store
+zip -d $1 __MACOSX/\*
+zip -d $1 \*/.DS_Store
 
 unzip -qq $1 -d .11731tmp
 curdir=$PWD
