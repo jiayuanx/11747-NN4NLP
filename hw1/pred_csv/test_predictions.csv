@@ -1,698 +1,698 @@
-model_0,model_1,model_2,model_3,model_4,model_5,model_6,majority_vote,pred_label
-2,2,2,2,2,2,2,2,engineering and technology
-7,7,7,15,15,9,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-4,4,4,15,4,4,4,4,history
-12,11,12,11,4,4,1,4,history
-9,9,9,9,9,9,9,9,music
-7,9,9,9,7,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-3,3,3,3,3,3,3,3,geography and places
-4,4,4,4,4,4,4,4,history
-7,7,7,7,7,7,7,7,media and drama
-11,11,11,11,11,11,11,11,philosophy and religion
-12,11,10,12,3,5,1,12,social sciences and society
-7,11,12,7,7,4,11,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-2,2,2,2,2,2,2,2,engineering and technology
-4,1,4,1,1,1,4,1,art and architecture
-3,3,3,3,3,3,3,3,geography and places
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,4,1,15,1,4,history
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-12,1,7,7,4,7,5,7,media and drama
-4,4,4,12,4,4,4,4,history
-15,15,15,15,15,15,15,15,warfare
-4,15,2,2,2,15,15,15,warfare
-12,11,11,11,11,12,4,11,philosophy and religion
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-12,3,12,4,3,3,12,12,social sciences and society
-7,7,7,7,7,7,7,7,media and drama
-1,1,1,1,1,1,1,1,art and architecture
-14,14,14,14,14,14,14,14,video games
-3,3,3,3,3,3,3,3,geography and places
-13,13,13,13,13,13,13,13,sports and recreation
-12,10,10,12,3,3,3,3,geography and places
-15,15,15,15,15,15,15,15,warfare
-7,11,1,1,1,1,7,1,art and architecture
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-3,3,3,3,3,3,3,3,geography and places
-10,10,10,12,10,2,3,10,natural sciences
-2,2,1,2,7,2,7,2,engineering and technology
-4,4,4,4,4,12,4,4,history
-14,14,14,14,14,14,14,14,video games
-7,7,7,7,7,7,7,7,media and drama
-12,12,12,13,15,4,12,12,social sciences and society
-15,15,15,15,15,15,15,15,warfare
-4,3,3,2,15,3,3,3,geography and places
-10,10,10,10,10,10,10,10,natural sciences
-2,2,2,2,2,2,15,2,engineering and technology
-4,4,4,4,4,4,4,4,history
-3,3,3,3,3,3,3,3,geography and places
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-2,2,2,2,2,2,2,2,engineering and technology
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-7,13,7,13,7,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,2,7,12,7,media and drama
-7,9,12,7,13,2,7,7,media and drama
-9,9,9,9,10,9,10,9,music
-15,15,15,15,15,15,15,15,warfare
-3,4,3,3,3,3,3,3,geography and places
-9,9,9,9,9,9,9,9,music
-14,14,14,14,14,14,14,14,video games
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-12,1,1,1,9,13,3,1,art and architecture
-4,1,4,1,1,1,1,1,art and architecture
-7,7,7,7,7,7,7,7,media and drama
-10,10,10,10,3,3,3,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,7,7,13,13,13,13,sports and recreation
-7,7,7,7,7,7,7,7,media and drama
-11,11,11,11,11,11,11,11,philosophy and religion
-12,4,4,4,3,4,4,4,history
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,1,15,4,4,4,history
-15,4,12,15,15,12,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-15,2,10,15,10,2,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,11,5,12,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-9,9,9,9,9,9,9,9,music
-9,9,9,9,9,9,9,9,music
-4,3,3,3,3,3,3,3,geography and places
-10,10,10,10,10,10,10,10,natural sciences
-14,14,14,14,14,14,14,14,video games
-10,10,10,10,10,10,10,10,natural sciences
-7,12,12,10,12,12,1,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-4,10,10,11,4,11,4,4,history
-15,15,15,15,15,15,15,15,warfare
-9,7,7,15,7,9,10,7,media and drama
-12,4,12,4,3,15,12,12,social sciences and society
-11,11,1,1,1,1,11,1,art and architecture
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,13,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,5,7,7,7,media and drama
-9,9,9,9,9,9,9,9,music
-4,4,12,12,13,3,15,12,social sciences and society
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-5,7,5,5,5,5,5,5,language and literature
-13,2,13,13,13,13,2,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-4,4,4,4,4,4,4,4,history
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-13,1,10,13,15,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-10,2,12,10,10,5,10,10,natural sciences
-2,2,2,2,2,15,15,2,engineering and technology
-10,10,10,10,10,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-7,5,5,7,7,7,5,7,media and drama
-10,10,10,10,10,10,10,10,natural sciences
-4,4,15,12,3,3,4,4,history
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-7,1,1,1,1,1,1,1,art and architecture
-2,15,15,2,2,2,15,2,engineering and technology
-15,15,15,15,15,4,4,15,warfare
-10,7,11,10,10,10,10,10,natural sciences
-2,2,2,2,2,2,2,2,engineering and technology
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,10,4,4,12,4,history
-15,15,15,15,15,15,15,15,warfare
-4,11,4,4,11,4,4,4,history
-10,3,3,3,2,15,0,3,geography and places
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-2,2,2,2,2,2,2,2,engineering and technology
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-4,4,4,4,4,4,4,4,history
-7,7,7,7,7,7,7,7,media and drama
-1,1,1,1,1,1,1,1,art and architecture
-4,4,4,15,15,15,15,15,warfare
-7,7,7,7,7,9,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-15,1,2,2,2,2,15,2,engineering and technology
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-15,4,4,4,15,4,15,4,history
-9,9,9,9,9,9,9,9,music
-13,13,13,13,13,13,13,13,sports and recreation
-9,9,9,9,9,9,9,9,music
-10,10,10,10,10,10,10,10,natural sciences
-4,4,4,4,4,4,4,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-3,1,3,3,3,3,3,3,geography and places
-15,15,15,15,15,15,15,15,warfare
-4,4,4,4,4,4,4,4,history
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,9,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-2,2,12,12,2,13,2,2,engineering and technology
-14,14,14,14,14,14,14,14,video games
-7,1,10,7,1,1,10,1,art and architecture
-12,4,3,9,1,4,15,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,10,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-13,13,7,13,13,7,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-7,7,7,13,7,13,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-3,1,3,3,3,3,3,3,geography and places
-14,14,14,14,14,14,14,14,video games
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-4,11,4,4,4,4,12,4,history
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,4,4,4,12,4,history
-15,4,4,10,4,12,4,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-15,15,15,12,15,15,15,15,warfare
-15,15,15,15,2,15,15,15,warfare
-2,2,2,2,2,2,2,2,engineering and technology
-9,9,10,7,9,15,9,9,music
-15,15,15,15,15,15,15,15,warfare
-12,12,11,7,11,11,12,12,social sciences and society
-4,4,4,11,4,4,11,4,history
-2,2,2,2,2,2,2,2,engineering and technology
-14,14,14,14,14,14,14,14,video games
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,7,7,7,7,media and drama
-12,12,12,12,12,12,12,12,social sciences and society
-10,10,10,10,10,3,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,4,4,4,4,4,history
-7,7,7,7,7,7,5,7,media and drama
-12,4,12,4,4,4,4,4,history
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-7,5,7,5,5,5,5,5,language and literature
-2,3,9,9,10,9,2,9,music
-15,15,12,12,4,4,12,12,social sciences and society
-15,15,15,15,15,15,15,15,warfare
-4,4,4,4,4,4,3,4,history
-14,14,14,14,14,14,14,14,video games
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-4,4,4,4,4,3,4,4,history
-3,2,10,13,3,12,11,3,geography and places
-15,4,4,11,4,4,4,4,history
-14,14,14,14,14,14,14,14,video games
-15,4,12,15,15,12,4,15,warfare
-12,12,11,4,4,4,4,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-4,1,3,12,1,1,4,1,art and architecture
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-9,9,9,9,9,9,9,9,music
-10,1,10,10,10,10,10,10,natural sciences
-2,2,2,2,2,2,2,2,engineering and technology
-3,3,3,2,3,12,3,3,geography and places
-12,11,4,4,4,4,4,4,history
-9,9,9,9,9,9,9,9,music
-13,13,13,13,13,13,13,13,sports and recreation
-2,3,10,13,2,2,2,2,engineering and technology
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-15,12,15,15,15,3,4,15,warfare
-15,15,15,15,15,15,15,15,warfare
-1,1,1,1,1,1,1,1,art and architecture
-9,9,9,9,9,9,9,9,music
-9,9,9,9,9,9,9,9,music
-7,7,7,7,7,7,7,7,media and drama
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-10,10,7,10,10,13,12,10,natural sciences
-4,4,15,15,15,4,4,4,history
-7,7,7,5,12,5,9,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-1,1,1,1,1,1,1,1,art and architecture
-7,7,7,7,7,7,9,7,media and drama
-9,9,9,9,9,9,9,9,music
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-10,11,11,4,10,4,4,4,history
-15,10,10,7,10,15,15,15,warfare
-12,11,4,4,4,12,4,4,history
-10,10,10,10,10,10,10,10,natural sciences
-14,14,14,14,14,14,14,14,video games
-7,9,9,1,9,1,1,1,art and architecture
-4,4,4,4,4,4,3,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-10,10,10,10,10,10,10,10,natural sciences
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-1,1,1,1,1,1,10,1,art and architecture
-9,9,9,9,9,9,9,9,music
-4,4,4,4,4,4,4,4,history
-15,15,15,15,15,15,15,15,warfare
-2,2,10,4,3,1,2,2,engineering and technology
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,7,2,15,15,3,15,warfare
-7,5,5,5,5,4,5,5,language and literature
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,7,7,7,7,media and drama
-1,3,3,1,3,3,3,3,geography and places
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-12,12,12,12,12,12,12,12,social sciences and society
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-3,3,1,3,1,3,1,3,geography and places
-12,12,11,12,11,12,12,12,social sciences and society
-13,13,7,13,13,13,13,13,sports and recreation
-2,4,1,1,12,1,1,1,art and architecture
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-4,4,4,4,12,4,4,4,history
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,4,4,4,4,4,history
-7,5,5,5,5,5,7,5,language and literature
-13,13,13,13,13,13,13,13,sports and recreation
-2,2,12,2,2,2,2,2,engineering and technology
-7,7,7,7,7,7,7,7,media and drama
-7,1,1,9,5,1,10,1,art and architecture
-9,9,9,9,9,9,9,9,music
-14,14,14,14,14,14,14,14,video games
-14,14,14,14,14,14,14,14,video games
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-4,1,4,1,4,4,4,4,history
-12,12,12,12,12,4,4,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-3,4,2,1,2,1,2,2,engineering and technology
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-4,4,4,11,4,11,11,4,history
-4,4,4,4,4,4,4,4,history
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-10,2,10,14,9,3,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-7,12,7,9,7,13,13,7,media and drama
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-7,7,1,5,5,7,1,7,media and drama
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-4,4,12,4,12,4,4,4,history
-10,3,10,3,10,10,10,10,natural sciences
-10,13,2,3,3,3,3,3,geography and places
-12,12,12,4,12,4,12,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-12,4,10,7,4,1,4,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,14,9,9,7,media and drama
-9,9,9,9,9,9,9,9,music
-4,4,4,4,4,4,4,4,history
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,4,15,3,4,4,history
-7,9,13,7,7,7,2,7,media and drama
-9,9,9,9,9,9,9,9,music
-4,12,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-10,10,3,2,10,11,12,10,natural sciences
-7,5,5,11,11,5,7,5,language and literature
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,13,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,4,15,1,3,4,3,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-1,1,1,1,1,1,1,1,art and architecture
-13,13,13,13,13,13,13,13,sports and recreation
-2,2,2,2,2,2,2,2,engineering and technology
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-4,4,4,4,4,4,4,4,history
-12,11,12,12,11,4,12,12,social sciences and society
-4,4,12,12,15,9,15,15,warfare
-4,4,4,4,4,4,4,4,history
-10,10,10,10,10,10,10,10,natural sciences
-11,11,11,11,11,11,11,11,philosophy and religion
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,12,12,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-12,4,12,3,10,4,3,4,history
-10,10,10,10,10,12,10,10,natural sciences
-2,7,7,7,10,11,7,7,media and drama
-4,7,12,7,11,11,13,7,media and drama
-2,15,15,15,2,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-12,12,12,12,12,12,12,12,social sciences and society
-7,7,7,7,7,7,7,7,media and drama
-1,1,1,1,1,1,1,1,art and architecture
-11,12,12,11,11,4,11,11,philosophy and religion
-7,7,7,7,7,7,7,7,media and drama
-15,13,13,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-12,12,15,12,15,15,12,12,social sciences and society
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-2,2,2,2,2,2,2,2,engineering and technology
-7,7,7,7,7,7,7,7,media and drama
-11,11,11,7,11,11,11,11,philosophy and religion
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,9,9,9,15,9,9,music
-2,15,10,2,15,2,2,2,engineering and technology
-4,4,4,4,4,4,4,4,history
-15,4,3,3,15,1,3,3,geography and places
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-14,14,14,14,14,14,14,14,video games
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-7,12,3,3,3,3,2,3,geography and places
-15,15,12,7,7,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-4,4,5,5,4,4,7,4,history
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-12,4,12,15,12,15,11,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-7,7,7,5,5,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,1,1,11,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-7,12,7,12,7,12,7,7,media and drama
-12,4,4,4,4,4,12,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-11,11,11,11,11,11,11,11,philosophy and religion
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-12,4,12,11,10,4,12,12,social sciences and society
-12,12,12,12,4,4,12,12,social sciences and society
-3,3,10,1,1,1,1,1,art and architecture
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-4,4,10,4,3,12,10,4,history
-4,1,3,3,3,3,3,3,geography and places
-10,10,10,10,10,11,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-15,15,12,15,15,4,12,15,warfare
-3,3,3,3,3,3,3,3,geography and places
-7,5,5,5,5,5,5,5,language and literature
-3,3,3,3,3,3,3,3,geography and places
-12,12,12,4,4,12,4,12,social sciences and society
-12,5,10,13,15,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-4,4,4,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-7,7,7,7,7,7,7,7,media and drama
-9,9,9,9,9,9,9,9,music
-10,10,10,10,10,10,10,10,natural sciences
-11,11,11,11,11,4,11,11,philosophy and religion
-2,2,2,2,2,2,2,2,engineering and technology
-2,2,2,2,2,2,2,2,engineering and technology
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-10,12,10,10,10,10,12,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-4,11,11,11,11,15,11,11,philosophy and religion
-15,15,15,15,15,3,15,15,warfare
-15,12,12,12,15,4,4,12,social sciences and society
-4,1,1,1,1,1,1,1,art and architecture
-5,5,5,5,5,5,5,5,language and literature
-4,12,15,4,15,15,12,15,warfare
-9,12,12,9,9,9,9,9,music
-7,7,7,7,7,7,7,7,media and drama
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,9,9,9,7,9,9,music
-13,13,13,13,13,13,13,13,sports and recreation
-1,7,1,1,1,1,1,1,art and architecture
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,14,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,3,10,10,10,natural sciences
-2,3,3,3,2,3,3,3,geography and places
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,13,15,15,15,15,warfare
-7,7,9,7,7,7,9,7,media and drama
-3,3,3,3,3,3,3,3,geography and places
-13,13,13,13,13,13,13,13,sports and recreation
-1,1,1,1,1,1,1,1,art and architecture
-7,0,1,1,1,1,1,1,art and architecture
-15,15,10,10,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-10,4,4,12,4,10,10,4,history
-15,15,15,15,15,15,15,15,warfare
-5,5,5,5,5,11,5,5,language and literature
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-2,2,2,2,2,2,2,2,engineering and technology
-4,4,4,4,15,4,4,4,history
-10,10,10,10,10,10,10,10,natural sciences
-7,13,7,7,7,12,9,7,media and drama
-9,7,7,7,9,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-7,7,7,7,7,7,7,7,media and drama
-4,12,13,3,3,1,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-3,3,3,3,3,3,3,3,geography and places
-2,2,2,2,2,2,2,2,engineering and technology
-14,14,14,14,14,14,14,14,video games
-13,13,13,13,13,13,13,13,sports and recreation
-9,9,9,9,9,9,9,9,music
-9,9,9,9,9,9,9,9,music
-11,11,11,11,11,11,11,11,philosophy and religion
-13,13,13,13,13,13,13,13,sports and recreation
-7,14,14,14,14,14,14,14,video games
-13,13,13,13,13,13,13,13,sports and recreation
-12,12,12,12,12,12,1,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-4,3,3,3,3,3,1,3,geography and places
-13,2,10,10,2,4,10,10,natural sciences
-10,10,10,10,10,10,10,10,natural sciences
-15,15,2,15,15,15,15,15,warfare
-12,12,12,12,12,4,12,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-9,9,9,9,9,9,9,9,music
-9,9,9,9,9,9,9,9,music
-10,10,10,13,10,10,10,10,natural sciences
-15,15,2,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,10,5,10,12,15,warfare
-10,10,10,10,10,10,10,10,natural sciences
-7,7,7,7,7,7,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-4,4,4,4,4,4,4,4,history
-2,2,2,2,2,2,2,2,engineering and technology
-7,7,7,7,7,7,7,7,media and drama
-10,3,10,3,3,10,3,3,geography and places
-12,12,12,4,4,4,4,4,history
-4,12,4,4,13,15,15,4,history
-12,12,12,12,15,12,12,12,social sciences and society
-2,2,2,2,2,2,2,2,engineering and technology
-3,10,10,10,3,10,10,10,natural sciences
-7,7,7,9,9,11,7,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,7,7,7,media and drama
-4,4,4,4,4,4,4,4,history
-4,4,12,12,4,4,4,4,history
-10,10,10,10,10,10,10,10,natural sciences
-15,15,3,15,15,12,15,15,warfare
-10,3,3,3,3,3,3,3,geography and places
-15,15,15,15,15,15,15,15,warfare
-7,7,7,7,7,1,12,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-15,15,15,4,15,15,15,15,warfare
-15,15,15,15,2,15,15,15,warfare
-7,12,7,12,11,11,7,7,media and drama
-4,12,12,12,12,7,12,12,social sciences and society
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-1,1,1,1,1,1,1,1,art and architecture
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-12,7,1,1,1,1,1,1,art and architecture
-15,15,13,15,15,15,15,15,warfare
-4,4,4,4,4,4,4,4,history
-3,3,3,3,3,3,3,3,geography and places
-15,15,15,15,15,15,15,15,warfare
-7,5,5,5,5,7,5,5,language and literature
-2,2,2,2,2,2,2,2,engineering and technology
-15,15,15,15,15,15,15,15,warfare
-4,4,7,4,12,4,4,4,history
-7,7,7,7,7,7,7,7,media and drama
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-15,4,15,15,4,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-13,13,13,13,13,13,13,13,sports and recreation
-9,1,1,1,1,1,1,1,art and architecture
-7,7,7,7,7,7,7,7,media and drama
-12,12,12,12,12,12,12,12,social sciences and society
-7,9,13,9,14,7,9,9,music
-1,1,1,1,1,1,1,1,art and architecture
-4,4,15,15,4,15,4,4,history
-4,4,4,4,4,4,4,4,history
-7,7,7,12,5,5,5,7,media and drama
-2,2,2,2,2,2,2,2,engineering and technology
-15,15,10,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-1,1,1,2,1,1,1,1,art and architecture
-15,15,15,15,15,15,15,15,warfare
-12,12,10,3,4,3,12,12,social sciences and society
-4,5,3,5,3,3,4,3,geography and places
-12,12,12,12,12,12,12,12,social sciences and society
-13,13,13,13,13,13,13,13,sports and recreation
-13,13,13,13,13,13,13,13,sports and recreation
-11,11,11,11,11,11,11,11,philosophy and religion
-14,14,14,14,14,14,14,14,video games
-15,1,1,4,15,15,15,15,warfare
-4,4,4,4,4,4,4,4,history
-13,13,13,13,13,13,13,13,sports and recreation
-10,10,10,10,10,10,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-5,5,5,5,5,5,5,5,language and literature
-15,12,12,12,2,12,3,12,social sciences and society
-12,4,4,4,3,4,4,4,history
-4,12,7,12,4,13,12,12,social sciences and society
-10,12,10,10,10,4,10,10,natural sciences
-15,15,15,15,15,15,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
-10,3,3,3,3,3,3,3,geography and places
-12,13,10,13,10,13,10,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-15,15,15,15,15,15,15,15,warfare
-9,9,9,9,9,9,9,9,music
-4,4,4,4,4,4,4,4,history
-15,15,15,15,15,15,15,15,warfare
-7,7,7,13,10,13,13,7,media and drama
-15,15,15,15,15,15,15,15,warfare
-4,4,4,4,4,4,4,4,history
-7,7,5,5,5,5,5,5,language and literature
-13,13,13,13,13,13,13,13,sports and recreation
-15,15,15,15,15,15,15,15,warfare
-13,13,13,13,13,13,13,13,sports and recreation
-4,12,15,15,15,4,15,15,warfare
-15,15,15,15,15,15,15,15,warfare
+model_0,model_1,model_2,model_3,model_4,model_5,model_6,model_7,majority_vote,pred_label
+2,2,2,2,2,2,2,2,2,engineering and technology
+15,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+4,4,4,4,4,4,4,4,4,history
+11,4,12,4,3,4,4,3,4,history
+9,9,9,9,9,9,9,9,9,music
+9,7,9,9,7,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+3,3,3,3,3,3,3,3,3,geography and places
+4,4,4,4,4,4,4,4,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+11,11,11,11,11,11,11,11,11,philosophy and religion
+1,10,12,12,13,2,1,12,12,social sciences and society
+10,7,15,4,4,4,11,4,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+2,2,2,2,2,2,2,2,2,engineering and technology
+1,1,4,1,1,1,4,4,1,art and architecture
+3,3,3,3,3,3,3,3,3,geography and places
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+15,1,4,1,1,1,4,1,1,art and architecture
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,12,7,7,7,7,7,media and drama
+12,12,4,4,4,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+4,4,12,3,4,4,15,1,4,history
+4,11,12,11,11,11,11,11,11,philosophy and religion
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+3,3,3,3,12,12,12,3,3,geography and places
+7,7,7,7,7,7,7,7,7,media and drama
+1,1,1,7,1,1,1,1,1,art and architecture
+14,14,7,14,14,14,14,14,14,video games
+3,3,3,3,3,3,3,3,3,geography and places
+13,13,13,13,13,13,13,13,13,sports and recreation
+3,3,12,10,3,15,4,4,3,geography and places
+15,15,15,15,15,15,15,15,15,warfare
+1,11,1,1,1,5,5,1,1,art and architecture
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+3,3,3,3,3,3,3,3,3,geography and places
+2,10,2,12,10,12,12,12,12,social sciences and society
+15,1,7,15,15,2,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+14,14,14,14,14,14,14,14,14,video games
+7,7,7,7,7,7,7,7,7,media and drama
+12,12,12,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+3,3,3,3,3,3,3,3,3,geography and places
+10,10,10,10,10,10,10,10,10,natural sciences
+2,2,2,2,2,15,2,2,2,engineering and technology
+4,4,4,4,4,4,4,4,4,history
+3,3,3,3,3,3,3,3,3,geography and places
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+2,2,2,2,2,2,2,2,2,engineering and technology
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+7,13,7,13,13,13,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,9,7,media and drama
+7,7,10,7,7,7,9,7,7,media and drama
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+3,3,3,3,3,3,10,3,3,geography and places
+9,9,9,9,9,9,9,9,9,music
+14,14,14,14,14,14,14,14,14,video games
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+1,1,1,1,1,1,1,1,1,art and architecture
+4,1,4,4,1,1,1,1,1,art and architecture
+7,7,7,7,15,7,7,7,7,media and drama
+10,10,10,3,10,10,3,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,7,7,7,7,7,media and drama
+11,11,11,11,11,11,11,11,11,philosophy and religion
+4,4,4,4,15,4,4,4,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,4,4,11,4,4,4,4,history
+15,15,12,15,15,12,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+2,15,2,15,10,2,2,15,2,engineering and technology
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,5,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,3,10,10,10,10,10,10,natural sciences
+9,9,9,9,9,9,9,9,9,music
+9,9,9,9,9,9,9,9,9,music
+3,4,3,3,3,3,3,3,3,geography and places
+10,10,10,10,10,10,10,10,10,natural sciences
+14,14,14,14,14,14,14,14,14,video games
+10,10,10,10,10,10,10,10,10,natural sciences
+7,10,2,12,10,10,12,5,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+4,1,1,4,10,5,1,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+9,9,7,9,7,7,9,7,7,media and drama
+15,15,3,4,3,12,4,15,15,warfare
+11,11,11,11,1,11,11,11,11,philosophy and religion
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+5,5,5,5,5,5,7,5,5,language and literature
+9,9,9,9,9,9,9,9,9,music
+4,15,12,4,15,15,15,12,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+5,5,5,5,5,5,5,5,5,language and literature
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+4,4,4,4,4,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,13,10,13,13,10,3,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,3,10,10,natural sciences
+15,2,2,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,5,7,7,7,7,7,5,7,media and drama
+10,10,10,10,10,10,10,10,10,natural sciences
+4,4,12,4,4,4,4,4,4,history
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+12,1,3,11,9,11,1,11,11,philosophy and religion
+15,15,15,15,15,15,2,15,15,warfare
+15,4,15,15,15,15,4,4,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+2,2,2,2,2,2,2,2,2,engineering and technology
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+15,4,4,4,4,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+11,4,4,11,11,4,4,4,4,history
+10,12,2,2,2,3,3,3,3,geography and places
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+2,2,2,2,2,2,2,2,2,engineering and technology
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+1,7,1,7,1,1,1,9,1,art and architecture
+4,4,15,15,15,15,4,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+2,2,4,2,2,15,15,4,2,engineering and technology
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+4,4,4,4,4,4,4,4,4,history
+9,9,9,9,9,9,9,9,9,music
+13,13,13,13,13,13,13,13,13,sports and recreation
+9,9,9,9,9,9,9,9,9,music
+10,10,10,10,10,10,10,10,10,natural sciences
+4,4,4,4,4,4,4,4,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+3,3,3,3,3,3,3,3,3,geography and places
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+12,2,2,13,12,2,12,2,2,engineering and technology
+14,14,14,14,14,14,14,14,14,video games
+10,1,9,10,10,1,1,7,10,natural sciences
+4,1,1,1,10,1,15,2,1,art and architecture
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,4,7,7,5,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+7,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+7,7,13,7,7,13,7,14,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+3,3,3,3,3,3,3,3,3,geography and places
+14,14,14,14,14,14,14,14,14,video games
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+4,4,11,4,13,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+4,12,12,4,3,4,4,4,4,history
+10,15,10,10,15,10,4,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,10,15,15,warfare
+15,15,15,15,15,15,15,2,15,warfare
+2,2,2,2,2,2,2,2,2,engineering and technology
+9,9,9,9,10,1,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+12,12,12,12,11,1,12,12,12,social sciences and society
+4,4,11,4,4,4,4,4,4,history
+2,2,2,2,2,2,2,2,2,engineering and technology
+14,14,14,14,14,14,14,14,14,video games
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,7,7,7,7,7,media and drama
+12,12,12,12,12,12,12,12,12,social sciences and society
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,4,4,4,4,4,4,4,history
+7,7,7,14,7,7,7,7,7,media and drama
+4,4,4,4,4,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+5,5,5,5,5,5,5,5,5,language and literature
+9,1,10,2,9,3,2,15,2,engineering and technology
+15,12,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+14,14,14,14,14,14,14,14,14,video games
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+4,3,4,4,4,4,4,4,4,history
+12,10,10,10,10,1,4,10,10,natural sciences
+4,4,4,15,4,4,4,4,4,history
+14,14,14,14,14,14,14,14,14,video games
+15,15,15,15,3,15,15,15,15,warfare
+4,11,4,4,4,4,4,11,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+4,1,1,1,1,1,1,1,1,art and architecture
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+9,9,9,9,9,9,9,9,9,music
+10,10,1,10,10,10,10,10,10,natural sciences
+2,2,2,2,2,2,2,2,2,engineering and technology
+3,3,3,3,10,3,3,3,3,geography and places
+4,4,4,4,4,11,4,4,4,history
+9,9,9,9,9,9,9,9,9,music
+13,13,13,13,13,13,13,13,13,sports and recreation
+3,3,2,2,2,2,2,2,2,engineering and technology
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+15,15,3,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+1,1,1,1,1,1,1,1,1,art and architecture
+9,9,9,9,9,9,9,9,9,music
+9,9,9,9,9,9,9,9,9,music
+7,7,7,7,7,7,7,7,7,media and drama
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+10,10,13,10,10,10,2,10,10,natural sciences
+15,4,4,4,13,15,15,13,15,warfare
+7,7,5,7,5,5,5,5,5,language and literature
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,1,1,1,1,1,1,1,1,art and architecture
+7,7,7,7,7,7,7,7,7,media and drama
+9,9,9,9,9,9,9,9,9,music
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+10,11,12,10,4,10,10,4,10,natural sciences
+15,15,15,10,10,15,15,15,15,warfare
+12,4,4,4,4,11,11,11,4,history
+10,10,10,10,10,10,10,10,10,natural sciences
+14,14,14,14,14,14,14,14,14,video games
+1,1,9,9,1,1,9,9,9,music
+4,4,4,4,4,4,4,15,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+10,10,10,10,10,10,10,10,10,natural sciences
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+1,1,11,1,1,1,1,1,1,art and architecture
+9,9,9,9,9,9,9,9,9,music
+4,4,4,4,4,4,4,11,4,history
+15,15,15,15,15,15,15,15,15,warfare
+2,15,4,3,2,4,15,4,4,history
+13,13,13,13,12,13,13,13,13,sports and recreation
+15,7,15,15,15,15,15,15,15,warfare
+7,5,5,5,5,7,7,5,5,language and literature
+7,7,7,7,7,7,7,12,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,7,7,7,7,7,media and drama
+1,4,3,3,1,1,4,3,3,geography and places
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+12,12,12,12,12,12,10,12,12,social sciences and society
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,3,1,1,3,3,3,3,3,geography and places
+12,11,14,12,14,4,11,12,12,social sciences and society
+13,13,7,13,7,13,13,13,13,sports and recreation
+15,1,3,3,1,1,1,1,1,art and architecture
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+4,4,4,12,12,4,4,4,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,4,4,4,4,4,4,4,history
+7,5,7,5,5,5,5,5,5,language and literature
+13,13,13,13,13,13,13,13,13,sports and recreation
+12,2,2,2,2,10,2,2,2,engineering and technology
+7,7,7,7,7,7,7,7,7,media and drama
+7,5,1,7,5,1,1,5,5,language and literature
+9,9,9,9,9,9,9,9,9,music
+14,14,14,14,14,14,14,14,14,video games
+14,14,14,14,14,14,14,14,14,video games
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+4,1,4,4,1,4,4,4,4,history
+12,4,12,12,12,12,12,4,12,social sciences and society
+13,13,13,13,14,13,13,13,13,sports and recreation
+3,2,3,2,2,4,3,3,3,geography and places
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,11,11,11,4,history
+4,7,4,4,4,13,4,15,4,history
+10,10,3,10,7,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+12,7,5,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+13,7,12,7,4,7,1,3,7,media and drama
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+1,7,7,5,7,5,7,1,7,media and drama
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,4,12,12,11,4,4,4,history
+3,10,10,10,10,3,10,10,10,natural sciences
+3,3,3,3,3,3,3,3,3,geography and places
+4,4,4,12,12,4,4,4,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+4,10,12,10,4,3,4,1,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,9,9,7,7,9,9,7,7,media and drama
+9,9,9,9,9,9,9,9,9,music
+4,4,4,4,4,4,4,4,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,4,3,15,3,15,4,4,history
+7,10,12,7,13,9,7,7,7,media and drama
+9,9,9,9,9,9,9,9,9,music
+15,15,12,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+10,10,3,2,10,10,10,10,10,natural sciences
+5,5,5,14,11,5,11,5,5,language and literature
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,13,7,13,7,12,13,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,3,13,13,15,15,15,15,warfare
+13,13,13,13,14,13,13,13,13,sports and recreation
+1,1,1,1,1,1,1,1,1,art and architecture
+13,13,13,13,12,13,13,13,13,sports and recreation
+2,2,2,2,2,2,2,2,2,engineering and technology
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+4,12,4,12,11,12,11,12,12,social sciences and society
+15,4,15,15,4,4,4,13,4,history
+4,4,4,4,4,4,4,4,4,history
+10,10,10,10,10,10,10,10,10,natural sciences
+11,11,11,11,11,11,11,11,11,philosophy and religion
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,4,10,10,10,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+12,15,12,12,15,15,4,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+13,12,7,12,10,7,9,9,7,media and drama
+11,7,4,11,11,12,12,11,11,philosophy and religion
+15,15,15,2,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+12,12,12,12,12,12,12,12,12,social sciences and society
+7,7,7,7,7,7,7,7,7,media and drama
+1,1,1,1,1,1,1,1,1,art and architecture
+11,12,11,11,7,11,12,12,11,philosophy and religion
+7,7,7,7,7,9,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+12,4,12,15,15,4,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+2,2,2,2,2,2,2,2,2,engineering and technology
+12,7,7,7,7,12,7,4,7,media and drama
+11,11,11,11,11,11,11,11,11,philosophy and religion
+13,13,13,13,13,13,13,13,13,sports and recreation
+9,7,9,9,9,9,9,9,9,music
+2,15,15,15,10,15,15,3,15,warfare
+4,4,4,4,4,4,4,4,4,history
+3,15,15,2,9,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+14,14,14,14,14,14,14,14,14,video games
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+10,2,3,3,2,3,12,3,3,geography and places
+15,15,12,12,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,15,15,15,9,4,4,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,5,7,7,5,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+10,10,10,10,10,10,10,10,10,natural sciences
+1,11,1,10,1,1,1,1,1,art and architecture
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,12,7,7,7,12,7,12,7,media and drama
+4,4,4,4,4,4,4,4,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+4,11,11,3,11,11,1,11,11,philosophy and religion
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+4,4,12,10,4,10,12,12,12,social sciences and society
+12,12,12,12,12,12,12,12,12,social sciences and society
+3,3,1,10,10,1,3,1,3,geography and places
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+4,10,4,4,10,10,4,4,4,history
+1,1,3,1,1,1,3,3,1,art and architecture
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+3,3,3,3,3,3,3,3,3,geography and places
+7,5,5,5,5,11,11,5,5,language and literature
+3,3,3,3,3,3,3,3,3,geography and places
+12,12,4,12,4,4,12,4,4,history
+12,12,10,10,10,15,12,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,4,4,4,4,4,4,4,4,history
+9,9,9,9,9,9,9,9,9,music
+7,7,7,7,7,7,7,7,7,media and drama
+9,9,9,9,9,9,9,9,9,music
+10,10,10,10,10,10,10,10,10,natural sciences
+11,11,11,11,11,11,11,11,11,philosophy and religion
+2,2,2,2,2,2,2,2,2,engineering and technology
+2,2,2,2,2,2,2,2,2,engineering and technology
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+10,10,12,10,10,10,10,10,10,natural sciences
+7,7,7,7,11,7,7,7,7,media and drama
+15,15,12,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+11,11,11,4,11,11,11,11,11,philosophy and religion
+15,15,15,15,15,15,15,15,15,warfare
+4,12,4,15,15,12,4,12,12,social sciences and society
+1,1,1,1,1,1,1,1,1,art and architecture
+12,5,5,5,5,4,7,5,5,language and literature
+12,12,15,15,12,12,15,12,12,social sciences and society
+9,12,9,9,10,9,9,9,9,music
+7,7,7,7,7,7,7,7,7,media and drama
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,9,7,9,9,7,9,9,9,music
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,1,1,1,1,1,1,1,1,art and architecture
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+14,14,13,13,14,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,4,3,10,10,natural sciences
+3,3,3,3,3,3,2,3,3,geography and places
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+3,3,3,3,3,3,3,3,3,geography and places
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,1,1,1,1,1,1,1,1,art and architecture
+12,1,1,1,1,1,1,1,1,art and architecture
+15,15,15,10,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+10,10,10,10,10,10,10,10,10,natural sciences
+4,12,4,12,4,12,12,4,12,social sciences and society
+15,15,15,15,15,15,15,15,15,warfare
+5,7,5,7,4,5,5,5,5,language and literature
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+2,2,2,2,2,2,2,2,2,engineering and technology
+4,4,4,4,4,15,4,15,4,history
+10,10,10,10,10,10,10,10,10,natural sciences
+7,13,7,13,11,7,7,9,7,media and drama
+9,7,7,7,9,7,9,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,7,7,7,7,7,7,7,7,media and drama
+1,1,13,3,4,3,3,1,3,geography and places
+13,13,13,13,13,13,13,13,13,sports and recreation
+3,3,3,3,3,3,3,3,3,geography and places
+2,2,2,2,2,2,2,2,2,engineering and technology
+14,14,14,14,14,14,14,14,14,video games
+13,13,13,13,13,13,13,13,13,sports and recreation
+9,9,9,9,9,9,9,9,9,music
+9,9,9,9,9,9,9,9,9,music
+11,11,11,11,11,11,11,11,11,philosophy and religion
+13,13,13,13,13,13,13,13,13,sports and recreation
+7,14,14,14,14,14,14,14,14,video games
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,7,12,12,12,12,1,12,12,social sciences and society
+13,13,13,13,13,13,13,13,13,sports and recreation
+3,3,3,3,3,3,3,3,3,geography and places
+4,4,10,10,9,4,4,10,4,history
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+12,12,12,12,12,12,12,4,12,social sciences and society
+13,13,13,13,13,13,13,13,13,sports and recreation
+9,9,9,9,9,9,9,9,9,music
+9,9,9,9,9,9,9,9,9,music
+10,15,13,10,10,10,10,4,10,natural sciences
+15,15,15,15,2,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,5,15,15,15,warfare
+10,10,10,10,10,10,10,10,10,natural sciences
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,4,4,15,4,4,4,4,4,history
+2,2,2,2,2,2,2,2,2,engineering and technology
+7,7,7,7,7,7,7,7,7,media and drama
+10,3,3,3,3,10,3,3,3,geography and places
+12,3,11,3,4,11,11,4,11,philosophy and religion
+4,12,4,4,4,13,9,4,4,history
+12,12,12,15,12,12,12,10,12,social sciences and society
+2,2,2,2,2,2,2,2,2,engineering and technology
+3,10,3,10,3,3,10,10,3,geography and places
+7,7,9,7,7,7,9,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+4,4,4,4,1,4,4,4,4,history
+4,4,12,4,4,12,4,4,4,history
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,1,15,1,15,15,warfare
+3,3,3,3,3,3,3,3,3,geography and places
+15,15,15,15,15,15,15,15,15,warfare
+7,7,7,7,7,7,7,7,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+7,11,5,11,12,12,7,11,11,philosophy and religion
+12,12,4,12,12,12,12,12,12,social sciences and society
+9,9,9,9,9,9,9,9,9,music
+4,15,15,15,15,15,15,15,15,warfare
+1,1,1,1,1,1,1,1,1,art and architecture
+9,9,9,9,9,9,9,9,9,music
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,1,1,1,1,1,1,1,1,art and architecture
+15,13,13,15,13,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+3,3,3,3,3,3,3,3,3,geography and places
+15,15,15,15,15,15,15,15,15,warfare
+5,7,5,5,5,5,5,5,5,language and literature
+2,2,2,2,2,2,2,2,2,engineering and technology
+15,15,15,15,15,15,15,15,15,warfare
+12,4,11,4,4,4,4,12,4,history
+7,7,7,7,7,7,7,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,4,4,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+13,13,13,13,13,13,13,13,13,sports and recreation
+1,1,1,1,9,1,1,1,1,art and architecture
+7,7,7,7,7,7,7,7,7,media and drama
+12,12,12,12,12,12,12,12,12,social sciences and society
+13,14,9,9,9,9,9,9,9,music
+1,1,1,1,1,1,1,1,1,art and architecture
+4,4,15,15,4,15,4,4,4,history
+4,4,4,4,4,4,4,4,4,history
+7,7,7,7,5,11,5,12,7,media and drama
+2,2,2,2,2,2,2,2,2,engineering and technology
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+1,1,1,1,1,1,1,1,1,art and architecture
+15,15,15,15,15,15,15,3,15,warfare
+12,3,3,4,5,3,2,3,3,geography and places
+1,1,4,4,4,3,4,3,4,history
+12,12,12,12,12,12,12,12,12,social sciences and society
+13,13,13,13,13,13,13,13,13,sports and recreation
+13,13,13,13,13,13,13,13,13,sports and recreation
+11,11,11,11,11,11,11,11,11,philosophy and religion
+14,14,14,14,14,14,14,14,14,video games
+1,1,1,15,15,15,15,15,15,warfare
+4,4,4,11,4,4,4,4,4,history
+13,13,13,13,13,13,13,13,13,sports and recreation
+10,10,10,10,10,10,10,10,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+5,5,5,5,5,5,5,5,5,language and literature
+15,4,4,12,2,15,4,12,4,history
+4,4,4,4,3,4,4,3,4,history
+12,7,4,12,4,4,4,4,4,history
+10,10,10,3,10,10,10,4,10,natural sciences
+15,15,15,15,15,15,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
+3,3,3,3,3,3,3,3,3,geography and places
+1,10,10,13,1,12,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+2,15,15,15,15,15,15,15,15,warfare
+9,9,9,9,9,9,9,9,9,music
+4,4,4,4,4,4,4,4,4,history
+15,15,15,15,15,15,15,15,15,warfare
+7,13,7,13,7,7,7,13,7,media and drama
+15,15,15,15,15,15,15,15,15,warfare
+4,4,4,4,4,4,4,4,4,history
+7,7,7,7,7,7,4,7,7,media and drama
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,15,15,15,15,15,15,15,15,warfare
+13,13,13,13,13,13,13,13,13,sports and recreation
+15,7,15,15,15,4,15,15,15,warfare
+15,15,15,15,15,15,15,15,15,warfare
