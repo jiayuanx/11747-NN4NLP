@@ -12,136 +12,136 @@ history
 media and drama
 philosophy and religion
 social sciences and society
-media and drama
+history
 sports and recreation
 engineering and technology
 art and architecture
 geography and places
 natural sciences
 media and drama
-history
+art and architecture
 media and drama
 sports and recreation
 media and drama
 history
 warfare
+history
+philosophy and religion
+natural sciences
+warfare
+geography and places
+media and drama
+art and architecture
+video games
+geography and places
+sports and recreation
+geography and places
+warfare
+art and architecture
+sports and recreation
+warfare
+sports and recreation
+sports and recreation
+natural sciences
+natural sciences
+geography and places
+social sciences and society
+warfare
+history
+video games
+media and drama
+warfare
+warfare
+geography and places
+natural sciences
+engineering and technology
+history
+geography and places
+natural sciences
+natural sciences
+engineering and technology
+warfare
+music
+media and drama
+warfare
+media and drama
+media and drama
+music
+warfare
+geography and places
+music
+video games
+music
+warfare
+art and architecture
+art and architecture
+media and drama
+natural sciences
+warfare
+sports and recreation
+sports and recreation
+media and drama
+philosophy and religion
+history
+media and drama
+history
+warfare
+natural sciences
+engineering and technology
+natural sciences
+media and drama
+warfare
+warfare
+natural sciences
+natural sciences
+music
+music
+geography and places
+natural sciences
+video games
+natural sciences
+natural sciences
+sports and recreation
+sports and recreation
+history
+warfare
+media and drama
 warfare
 philosophy and religion
 natural sciences
 warfare
-social sciences and society
-media and drama
-art and architecture
-video games
-geography and places
-sports and recreation
-geography and places
+natural sciences
 warfare
-art and architecture
+warfare
+language and literature
+music
+warfare
+warfare
+natural sciences
+warfare
+language and literature
+sports and recreation
 sports and recreation
 warfare
-sports and recreation
-sports and recreation
 natural sciences
-natural sciences
-geography and places
-natural sciences
-engineering and technology
 history
-video games
-media and drama
-social sciences and society
 warfare
-geography and places
+sports and recreation
+sports and recreation
 natural sciences
-engineering and technology
+sports and recreation
+natural sciences
+warfare
+natural sciences
+sports and recreation
+media and drama
+natural sciences
 history
-geography and places
 natural sciences
-natural sciences
-engineering and technology
-warfare
-music
+media and drama
 sports and recreation
-warfare
-media and drama
-media and drama
-music
-warfare
-geography and places
-music
-video games
-music
-warfare
-art and architecture
-art and architecture
-media and drama
-natural sciences
-warfare
-sports and recreation
-sports and recreation
-media and drama
 philosophy and religion
-history
-media and drama
-history
 warfare
-natural sciences
-warfare
-natural sciences
-media and drama
-warfare
-warfare
-natural sciences
-natural sciences
-music
-music
-geography and places
-natural sciences
-video games
-natural sciences
-social sciences and society
-sports and recreation
-sports and recreation
-history
-warfare
-media and drama
-social sciences and society
-art and architecture
-natural sciences
-warfare
-natural sciences
-warfare
-warfare
-media and drama
-music
-social sciences and society
-warfare
-natural sciences
-warfare
-language and literature
-sports and recreation
-sports and recreation
-warfare
-natural sciences
-history
-warfare
-sports and recreation
-sports and recreation
-natural sciences
-sports and recreation
-natural sciences
-engineering and technology
-natural sciences
-sports and recreation
-media and drama
-natural sciences
-history
-natural sciences
-media and drama
-sports and recreation
-art and architecture
-engineering and technology
 warfare
 natural sciences
 engineering and technology
@@ -194,8 +194,8 @@ warfare
 sports and recreation
 engineering and technology
 video games
+natural sciences
 art and architecture
-history
 sports and recreation
 media and drama
 sports and recreation
@@ -216,7 +216,7 @@ history
 warfare
 media and drama
 history
-history
+natural sciences
 sports and recreation
 natural sciences
 warfare
@@ -240,15 +240,15 @@ history
 warfare
 media and drama
 language and literature
-music
-social sciences and society
+engineering and technology
+warfare
 warfare
 history
 video games
 warfare
 sports and recreation
 history
-geography and places
+natural sciences
 history
 video games
 warfare
@@ -277,8 +277,8 @@ media and drama
 natural sciences
 warfare
 natural sciences
-history
-media and drama
+warfare
+language and literature
 sports and recreation
 sports and recreation
 art and architecture
@@ -289,12 +289,12 @@ warfare
 natural sciences
 natural sciences
 natural sciences
-history
+natural sciences
 warfare
 history
 natural sciences
 video games
-art and architecture
+music
 history
 sports and recreation
 natural sciences
@@ -307,7 +307,7 @@ art and architecture
 music
 history
 warfare
-engineering and technology
+history
 sports and recreation
 warfare
 language and literature
@@ -337,7 +337,7 @@ language and literature
 sports and recreation
 engineering and technology
 media and drama
-art and architecture
+language and literature
 music
 video games
 video games
@@ -346,7 +346,7 @@ natural sciences
 history
 social sciences and society
 sports and recreation
-engineering and technology
+geography and places
 music
 warfare
 history
@@ -355,7 +355,7 @@ natural sciences
 warfare
 natural sciences
 warfare
-natural sciences
+music
 warfare
 warfare
 media and drama
@@ -368,7 +368,7 @@ media and drama
 history
 natural sciences
 geography and places
-social sciences and society
+history
 sports and recreation
 history
 sports and recreation
@@ -402,7 +402,7 @@ music
 warfare
 history
 social sciences and society
-warfare
+history
 history
 natural sciences
 philosophy and religion
@@ -414,10 +414,10 @@ warfare
 natural sciences
 sports and recreation
 natural sciences
-history
+warfare
 natural sciences
 media and drama
-media and drama
+philosophy and religion
 warfare
 sports and recreation
 social sciences and society
@@ -429,7 +429,7 @@ warfare
 warfare
 music
 warfare
-social sciences and society
+warfare
 warfare
 music
 engineering and technology
@@ -437,9 +437,9 @@ media and drama
 philosophy and religion
 sports and recreation
 music
-engineering and technology
+warfare
 history
-geography and places
+warfare
 warfare
 sports and recreation
 sports and recreation
@@ -456,14 +456,14 @@ warfare
 history
 media and drama
 media and drama
-social sciences and society
+history
 sports and recreation
 warfare
 media and drama
 warfare
 music
 natural sciences
-natural sciences
+art and architecture
 sports and recreation
 media and drama
 history
@@ -478,22 +478,22 @@ sports and recreation
 warfare
 social sciences and society
 social sciences and society
-art and architecture
+geography and places
 sports and recreation
 natural sciences
 natural sciences
 history
-geography and places
+art and architecture
 natural sciences
 natural sciences
 warfare
 geography and places
 language and literature
 geography and places
-social sciences and society
+history
 natural sciences
 sports and recreation
-warfare
+history
 music
 media and drama
 music
@@ -514,7 +514,7 @@ warfare
 social sciences and society
 art and architecture
 language and literature
-warfare
+social sciences and society
 music
 media and drama
 media and drama
@@ -535,7 +535,7 @@ sports and recreation
 natural sciences
 media and drama
 warfare
-media and drama
+music
 geography and places
 sports and recreation
 art and architecture
@@ -549,7 +549,7 @@ natural sciences
 natural sciences
 natural sciences
 natural sciences
-history
+social sciences and society
 warfare
 language and literature
 sports and recreation
@@ -564,7 +564,7 @@ warfare
 warfare
 sports and recreation
 media and drama
-sports and recreation
+geography and places
 sports and recreation
 geography and places
 engineering and technology
@@ -579,7 +579,7 @@ sports and recreation
 social sciences and society
 sports and recreation
 geography and places
-natural sciences
+history
 natural sciences
 warfare
 social sciences and society
@@ -600,11 +600,11 @@ history
 engineering and technology
 media and drama
 geography and places
-history
+philosophy and religion
 history
 social sciences and society
 engineering and technology
-natural sciences
+geography and places
 media and drama
 warfare
 media and drama
@@ -618,7 +618,7 @@ media and drama
 warfare
 warfare
 warfare
-media and drama
+philosophy and religion
 social sciences and society
 music
 warfare
@@ -659,8 +659,8 @@ warfare
 warfare
 art and architecture
 warfare
-social sciences and society
 geography and places
+history
 social sciences and society
 sports and recreation
 sports and recreation
@@ -672,9 +672,9 @@ sports and recreation
 natural sciences
 warfare
 language and literature
-social sciences and society
 history
-social sciences and society
+history
+history
 natural sciences
 warfare
 warfare
@@ -689,7 +689,7 @@ warfare
 media and drama
 warfare
 history
-language and literature
+media and drama
 sports and recreation
 warfare
 sports and recreation
